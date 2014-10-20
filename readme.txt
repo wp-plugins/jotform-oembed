@@ -8,7 +8,7 @@ Stable tag: 1.1
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Add JotForm to the available oEmbed providers to let you easily embed JotForm forms by just entering the form URL
+Adds JotForm to the available oEmbed providers to let you easily embed JotForm forms by just entering the form URL.
 
 == Description ==
 
