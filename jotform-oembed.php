@@ -3,9 +3,9 @@
     Plugin Name: JotForm oEmbed
     Plugin URI: http://www.jotform.com/labs/wordpress
     Description:
-    Version: 1.0
-    Author: Ertugrul Emre Ertekin
-    Author URI: http://ee.ertek.in
+    Version: 1.2
+    Author: JotForm.com
+    Author URI: http://www.jotform.com
     License: GNU General Public License v3
 */
 
